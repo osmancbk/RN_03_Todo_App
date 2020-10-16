@@ -1,2 +1,4 @@
-# RN_03_TODO_APP
-ReactNative Todo App
+# React Native Todo App
+</hr>
+
+<img src="./src/image/todo.gif" alt="todo" height=400 >
